@@ -27,6 +27,11 @@ Skip Connections: Combine feature maps from encoder to decoder for better locali
 🧪 How to Use
 Prepare Dataset
 Organize your dataset into images/ and masks/ folders or adapt the notebook to your own dataset structure.
+This project uses the Massachusetts Roads Dataset.
+
+Due to its large size (~10GB), it is not included in this repository.
+You can download the dataset from the following source:
+🔗 Download link: https://www.cs.toronto.edu/~vmnih/data/
 
 Run Notebook
 Open unet5.ipynb in Jupyter Notebook or VSCode and run all cells step-by-step.
